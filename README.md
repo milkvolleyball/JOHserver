@@ -1,1 +1,1 @@
-learning project for c socket networking
+learning project for socket programming in c
